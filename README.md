@@ -1,8 +1,8 @@
 
 <h1 align="center"> Hello World 👋, I'm Simona</h1>
 <h3 align="center"> I’m @SimonaSunrise, I'm 31 and I live in Palermo, Italy  </h3>
-<h6> <i> Small digression: <br>
-   I love my city, I highly recommend visiting Palermo because of its history and cultures, where ancient architecture, rich traditions, and delectable cuisine intertwine in the heart of the Mediterranean.  💞️</i> </h6>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
